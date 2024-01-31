@@ -4,6 +4,7 @@ This project aims to apply fundamental SQL functions and queries for data manipu
 ### assignment list
 - Create table
 - Insert data to table
+- Join Table
 - Basic SQL operations
 - Queries for data analysis
 - Connect to PostgreSQL sever
