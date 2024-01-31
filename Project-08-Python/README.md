@@ -1,5 +1,5 @@
 ## Project overview
-This project mainly focuses on using what we know about functions and methods in Python programming, controlling how the program runs, and applying Object-Oriented Programming (OOP) concepts.
+This project mainly focuses on functions and methods in Python programming, control flow , and applying Object-Oriented Programming (OOP) concepts.
 
 ### assignment list
 - Variable
