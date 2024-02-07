@@ -1,9 +1,7 @@
 ## Project overview
-This project mainly focuses on functions and methods in Python programming, control flow , and applying Object-Oriented Programming (OOP) concepts.
+This project mainly focuses on functions and methods , control flow , and applying Object-Oriented Programming (OOP) concepts in Python programming
 
 ### assignment list
-- Variable
-- Function , Method
-- Basic control flow
 - Basic OOP
 - Data structures
+- Use the Pandas library to perform various operations on data in a DataFrame related to stores and products, including reading data from a CSV file, data cleaning, querying data, data merging, and saving data to a new CSV file
