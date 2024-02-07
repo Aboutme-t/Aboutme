@@ -21,7 +21,7 @@ df[df["country"]== "United States"][["customer_name","country"]]
 df.query("city == 'Los Angeles' and category == 'Furniture'")
 
 ## aggregate data
-df.groupby(["segmment","region"])[["sales","profit"]].arr(["sum","mean","std"]).reset_index()
+df.groupby(["segmment","region"])[["sales","profit"]].agg(["sum","mean","std"]).reset_index()
 
 ## write csv
 df.to_csv("new_store.csv")
