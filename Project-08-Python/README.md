@@ -1,5 +1,5 @@
 ## Project overview
-This project mainly focuses on functions and methods , control flow , and applying Object-Oriented Programming (OOP) concepts in Python programming
+This project mainly focuses on functions and methods , control flow , requests library , pandas library, API, and applying Object-Oriented Programming (OOP) concepts in Python programming
 
 ### assignment list
 - Basic OOP.
