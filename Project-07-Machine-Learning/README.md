@@ -4,6 +4,7 @@ The objective of this project is to demonstrate fundamental knowledge of Machine
 ### assignment list
 - Churn prediction with Machine Learning In python (sklearn.model)
 - Churn prediction with Machine Learning In R (Caret)
+- Build  Machine Learning to classify diabetes patients (Caret)
 - linear regression
 - logistic regression
 - KNN model
